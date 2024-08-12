@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+alt+shift+f12"],
+        "command": "patch_this_application",
+    },
+]

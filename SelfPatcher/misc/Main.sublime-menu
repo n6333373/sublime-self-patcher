@@ -1,0 +1,50 @@
+[
+    {
+        "id": "preferences",
+        "children": [
+            {
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "SelfPatcher",
+                        "children": [
+                            {
+                                "caption": "-",
+                            },
+                            {
+                                "caption": "Settings",
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/SelfPatcher/SelfPatcher.sublime-settings",
+                                    "default": "{\n\t$0\n}\n",
+                                },
+                            },
+                            {
+                                "caption": "-",
+                            },
+                        ],
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        "id": "help",
+        "children": [
+            {
+                "caption": "-",
+            },
+            {
+                "caption": "Patch This Application",
+                "command": "patch_this_application",
+            },
+            {
+                "caption": "Patch External Sublime Text/Merge",
+                "command": "patch_external_sublime_text_or_merge",
+            },
+            {
+                "caption": "-",
+            },
+        ],
+    },
+]
