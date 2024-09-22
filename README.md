@@ -1,16 +1,21 @@
 ## Sublime Self Patcher
 
-This is a Sublime Text 4 plugin which can patch Sublime Text itself (and Sublime Merge).
+This is a Sublime Text 4 plugin which can patch Sublime Text and Sublime Merge.
 
-🔥 No third-party dependency is required. The only thing needed is Sublime Text itself.
+🔥 No third-party dependency is required. The only thing you need is Sublime Text.
 
 ## Supported Environments
 
-- Linux x64
-- Windows x32
-- Windows x64
+| Sign | Meaning                                                                 |
+| ---- | ----------------------------------------------------------------------- |
+| ✅   | Supported.                                                              |
+| ⚠️   | Unstable patch patterns. You may have to update this plugin frequently. |
+| ☠️   | Sorry but I don't use it.                                               |
 
-There is no other platform or architecture supported because I don't use them.
+|                   | Linux x64 | Windows x32 | Windows x64 | Others |
+| ----------------- | --------- | ----------- | ----------- | ------ |
+| **Sublime Text**  | ✅        | ✅          | ✅          | ☠️     |
+| **Sublime Merge** | ✅⚠️      |             | ✅          | ☠️     |
 
 ## Download
 
@@ -53,13 +58,15 @@ Click the menu: `Help ⇒ Patch External Sublime Text/Merge` and then select the
 This plugin usually just continues to work for future versions of Sublime Text/Merge.
 But if you want to disable the application auto update, you can set the following settings:
 
-```json
+```jsonc
 {
-    "update_check": false
+    "update_check": false, // this works only if you have registered
 }
 ```
 
 ### This Plugin is Suspicious
 
-I don't think I do anything malicious, but if you don't trust me, you can always do it by yourself.
-See https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47
+I don't think I do anything malicious, but you don't have to trust me. You can
+
+- Do patching in a virtual machine and take the patched executable out.
+- Do it by yourself. See https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47
