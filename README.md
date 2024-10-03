@@ -49,6 +49,9 @@ Packages/
 
 ### Patch External Sublime Text/Merge
 
+If your application is installed in a place which requires admin/root permission to write,
+you can use this plugin to create a patched executable in a temporarily directory.
+
 Click the menu: `Help ⇒ Patch External Sublime Text/Merge` and then select the executable of Sublime Text/Merge.
 
 ## Q&A
