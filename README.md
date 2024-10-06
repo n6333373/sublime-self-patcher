@@ -17,6 +17,8 @@ This is a Sublime Text 4 plugin which can patch Sublime Text and Sublime Merge.
 | **Sublime Text**  | ✅        | ✅          | ✅          | ☠️     |
 | **Sublime Merge** | ✅⚠️      |             | ✅          | ☠️     |
 
+If you are on Windows 7, then [Service Pack 2](https://answers.microsoft.com/en-us/windows/forum/all/how-to-obtain-and-install-windows-7-sp2/c2c7009f-3a10-4199-9c89-48e1e883051e) is required.
+
 ## Download
 
 https://github.com/n6333373/sublime-self-patcher/archive/refs/heads/main.zip
