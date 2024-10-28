@@ -42,6 +42,8 @@ Packages/
     ├── ...
 ```
 
+And then restart Sublime Text if it's running.
+
 ## Usage
 
 ### Patch Self (The Current Sublime Text)
