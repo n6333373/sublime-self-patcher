@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=n6333373&project=sublime-self-patcher&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 ## Sublime Self Patcher
 
 This is a Sublime Text 4 plugin which can patch Sublime Text and Sublime Merge.
