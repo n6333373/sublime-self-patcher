@@ -1,23 +1,21 @@
 ## Sublime Self Patcher
 
-This is a Sublime Text 4 plugin which can patch Sublime Text and Sublime Merge.
+⚠️ Sublime Text >= 4205 (Python 3.14 plugin host) is required to run this plugin.
 
-🔥 No third-party dependency is required. The only thing you need is Sublime Text.
+This is a Sublime Text plugin which can patch Sublime Text and Sublime Merge.
 
 ## Supported Environments
 
 | Sign | Meaning                                                                 |
 | ---- | ----------------------------------------------------------------------- |
-| ✅   | Supported.                                                              |
+| ✅   | Supported. Patch patterns seem to be stable.                            |
 | ⚠️   | Unstable patch patterns. You may have to update this plugin frequently. |
 | ☠️   | Sorry but I don't use it.                                               |
 
-|                   | Linux x64 | Windows x32 | Windows x64 | Others |
-| ----------------- | --------- | ----------- | ----------- | ------ |
-| **Sublime Text**  | ✅        | ✅          | ✅          | ☠️     |
-| **Sublime Merge** | ✅⚠️      |             | ✅          | ☠️     |
-
-If you are on Windows 7, then [Service Pack 2](https://answers.microsoft.com/en-us/windows/forum/all/how-to-obtain-and-install-windows-7-sp2/c2c7009f-3a10-4199-9c89-48e1e883051e) is required.
+|                   | Linux x64 | Windows x64 | Others |
+| ----------------- | --------- | ----------- | ------ |
+| **Sublime Text**  | ✅        | ✅          | ☠️     |
+| **Sublime Merge** | ✅        | ✅          | ☠️     |
 
 ## Download
 
